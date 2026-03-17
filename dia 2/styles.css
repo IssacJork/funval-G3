@@ -1,0 +1,15 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: brown;
+    color: beige;
+}
+ul {
+    display: flex;
+    gap: 30px;
+
+}
+.lista {
+   display: flex; 
+}
